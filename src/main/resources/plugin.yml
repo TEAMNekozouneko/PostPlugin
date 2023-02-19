@@ -1,0 +1,5 @@
+name: "PostPlugin"
+version: ${version}
+
+api-version: 1.19
+main: com.nekozouneko.post.PostPlugin
